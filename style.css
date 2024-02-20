@@ -426,11 +426,10 @@ footer a{
     #page1-content #bottom{
         height: 60vw;
         padding: 2vw;
-        gap: 1.5vw;
         margin-top: 6vw;
     }
     
-    #page1-content #bottom .elem{
+    #page1-content #bottom .container .elem{
         width: 35vw;
     }
     
@@ -440,7 +439,7 @@ footer a{
     }
     
     #bottom .elem .overlay h2{
-        font-size: 2vw;
+        font-size: 3vw;
         font-weight: 600;
         line-height: 1.5;
     }
@@ -451,7 +450,7 @@ footer a{
     }
     
     #bottom .elem .overlay .buttons h3{
-        font-size: 1.6vw;
+        font-size: 2vw;
         padding: 0.5vw 1vw;
         font-weight: 500;
     }
