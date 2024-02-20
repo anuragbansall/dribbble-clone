@@ -163,7 +163,8 @@ body::-webkit-scrollbar{
     padding: 1vw;
     display: flex;
     align-items: center;
-    overflow: auto hidden; 
+    gap: 1.5vw;
+    overflow: hidden; 
 }
 
 #page1-content #bottom::-webkit-scrollbar{
